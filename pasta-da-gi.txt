@@ -1,1 +1,2 @@
 Oi, esta é a pasta da Gi
+Gi está mudando o pasta-da-gi.txt para gerar um conflito
